@@ -1,0 +1,70 @@
+.header:hover{
+    width: 220px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.link {
+    font-size: 20px;
+    background: beige;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+    color: deeppink;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+h1{
+    color: lightpink;
+    font-family: cursive;
+    font-weight: 800;
+    font-style: italic;
+
+}
+
+h3{
+    
+    color:deeppink;
+    font-weight:900;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+h4{
+    
+    color:plum;
+    font-weight:900;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+h5{
+    
+    color:aqua;
+    font-weight:900;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+}
+
+h6{
+    
+    color:purple;
+    font-weight:900;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 30px;
+}
